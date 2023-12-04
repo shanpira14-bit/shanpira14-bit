@@ -2,7 +2,7 @@
 
 ### <p align="center">  Hello there! My name is Sean. <img height="25px" src="https://github.com/chrissianpira/chrissianpira/assets/108297669/25761dc5-6662-449b-a3a2-ffb8ee5a84e4" /> 🤓</p>
 
-I'm a DevSecOps Consultant at [Goodyear](https://www.goodyear.com.ph/). AUTOMATION IS MY PASSION. Most of the time you will see me writing scripts to automate random kinds of stuff. Either it's for work or for personal use
+I'm a DevSecOps Consultant at [Goodyear](https://github.com/goodyear). AUTOMATION IS MY PASSION. Most of the time you will see me writing scripts to automate random kinds of stuff. Either it's for work or for personal use
 
 ## ⚡Updates
 - 🔭 I’m currently working on learning the following the right.
