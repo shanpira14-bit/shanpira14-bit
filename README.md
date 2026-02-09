@@ -4,12 +4,8 @@
 
 I'm a DevSecOps Consultant at [Goodyear](https://github.com/goodyear). AUTOMATION IS MY PASSION. Most of the time you will see me writing scripts to automate random kinds of stuff. Either it's for work or for personal use
 
-## ⚡Updates
-- 🔭 I’m currently working on learning the following the right.
-- 🌱 Recently completed `SonarQube integration to GitHub Repository` automation.
 - 💬 Ask me about programming and DevOps!
-- 📫 How to reach me: Email: chrissianjade_pira@goodyear.com
-- ⚡ Fun fact: I love automating soo much that I also automated my home with IoT automation 
+- 📫 How to reach me: Email: shan.pira14@outlook.com
 
 ## ⚡Domains
 - DevOps
